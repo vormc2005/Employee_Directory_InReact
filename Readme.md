@@ -6,3 +6,5 @@ Users are also able to search for an employee using a search box by typing chara
  
 Employee list is generated from a free employee generating API. As the application is loaded this app gets a random list of employees from API using AXIOS. 
 
+![](ReactEmployeeSearch.gif)
+
