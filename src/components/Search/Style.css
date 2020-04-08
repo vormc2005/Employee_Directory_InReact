@@ -1,0 +1,11 @@
+input {
+    margin-left: 43%;
+    padding: 5px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    border-radius: 2px;
+}
+div.results{
+    
+    width:100%;
+}
